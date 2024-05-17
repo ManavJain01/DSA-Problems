@@ -31,3 +31,53 @@ main{
   align-items: center;
   gap: 50px;
 }
+
+main ul{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 80px;
+}
+
+main ul li{
+  font-size: x-large;
+  color: beige;
+  list-style: none;
+  white-space: nowrap;
+  background: linear-gradient(
+    90deg,
+    green 1%,
+    transparent 10%
+  );
+}
+
+#array{
+  background: linear-gradient(
+    90deg,
+    green 30%,
+    transparent 40%
+  );
+}
+
+#strings{
+  background: linear-gradient(
+    90deg,
+    green 30%,
+    transparent 40%
+  );
+}
+
+#LL{
+  background: linear-gradient(
+    90deg,
+    green 20%,
+    transparent 30%
+  );
+}
+
+#searching-sorting{
+  background: linear-gradient(
+    90deg,
+    green 30%,
+    transparent 40%
+  );
+}
