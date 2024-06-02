@@ -1,0 +1,14 @@
+[
+  {
+    "QuesName": "Score of a String",
+    "Difficulty": "Easy",
+    "statement": "You are given a string s. The score of a string is defined as the sum of the absolute difference between the ASCII values of adjacent characters.",
+    "Approaches": {
+      "Brute Force Approach": "",
+      "Better Approach": "",
+      "Optimal Approach": ""
+    },
+    "reference": "Leetcode, Problem of the Day - 01-06-2024",
+    "solution": "https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01"
+  }
+]

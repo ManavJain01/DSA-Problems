@@ -1,0 +1,24 @@
+[
+  {
+    "QuesName": "Kadane's Algorithm",
+    "Difficulty": "Easy",
+    "statement": "Given an integer array arr, find the contiguous subarray (containing at least one number) which has the largest sum and returns its sum and prints the subarray.",
+    "Approaches": {
+      "Brute Force Approach": "O(n^3)",
+      "Better Approach": "O(n^2)",
+      "Optimal Approach": "O(n)"
+    },
+    "reference": "Striver's SDE Sheet - Top Coding Interview Problems",
+    "solution": "https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/"
+  },
+  {
+    "QuesName": "Stock Buy and Sell",
+    "Difficulty": "Easy",
+    "statement": "You are given an array of prices where prices[i] is the price of a given stock on an ith day.",
+    "Approaches": {
+      "Brute Force Approach": "",
+      "Optimal Approach": ""
+    },
+    "reference": "Striver's SDE Sheet - Top Coding Interview Problems"
+  }
+]
